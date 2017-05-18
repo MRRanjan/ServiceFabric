@@ -1,0 +1,3 @@
+L:\Development\SericeFabric\Code\sf-get-start\Services\AlphabetPartitions\AlphabetPartitions\obj\x64\Debug\AlphabetPartitions.sfprojResolveAssemblyReference.cache
+M:\Dev\ServiceFabric\ServiceFabric\Code\sf-get-start\Services\AlphabetPartitions\AlphabetPartitions\obj\x64\Debug\AlphabetPartitions.sfprojResolveAssemblyReference.cache
+M:\Dev\ServiceFabric\2\AlphabetPartitions\AlphabetPartitions\obj\x64\Debug\AlphabetPartitions.sfprojResolveAssemblyReference.cache
